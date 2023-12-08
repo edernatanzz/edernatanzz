@@ -12,10 +12,10 @@
 
 
 </div>
-![Python](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=blue&logo=python)
-![HTML](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=orange&logo=html5)
-![CSS](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=blue&logo=css3)
-![JavaScript](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=yellow&logo=javascript)
+![Python](https://img.icons8.com/color/48/000000/python.png) Python
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
 
 

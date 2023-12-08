@@ -1,4 +1,7 @@
-## Olá, me chamo Eder Natan, qual á boa ?
+## Olá, me chamo Eder Natan, qual a boa ?
+
+
+
 
 
 - 🤔 Estudante de Engenharia de Computação

@@ -15,8 +15,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark" alt="Top Langs" />
 </div>
 
-
-![edernatanzz GitHub stats](https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark)
-
-
   

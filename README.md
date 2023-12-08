@@ -1,3 +1,13 @@
+
+## Olá, me chamo Eder Natan, qual a boa?</strong>
+
+<p align="center">
+  🤔 Estudante de Engenharia de Computação - Desenvolvedor Full Stack<br>
+  💬 Alguma dúvida?<br>
+  📫 Contate-me no email: edernatan124@gmail.com<br>
+  ⚡ Pra quem está perdido, qualquer caminho é lado.
+</p>
+
 <div style="width: 100%;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true" alt="Eder Natan's GitHub stats" height="150" />
 
@@ -13,13 +23,3 @@
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
 </p>
 
-<p align="center">
-  <strong>Olá, me chamo Eder Natan, qual a boa?</strong>
-</p>
-
-<p align="center">
-  🤔 Estudante de Engenharia de Computação - Desenvolvedor Full Stack<br>
-  💬 Alguma dúvida?<br>
-  📫 Contate-me no email: edernatan124@gmail.com<br>
-  ⚡ Pra quem está perdido, qualquer caminho é lado.
-</p>

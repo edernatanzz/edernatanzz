@@ -11,7 +11,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />
   </h1>
 </div>
-
+<br>
 ## Linguagens e Ferramentas:
 
 <div><p >

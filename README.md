@@ -10,13 +10,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />
 
 
-![Python](https://img.shields.io/github/languages/top/seu_nome_de_usuario/seu_repositorio?color=blue&logo=python)
-![HTML](https://img.shields.io/github/languages/top/seu_nome_de_usuario/seu_repositorio?color=orange&logo=html5)
-![CSS](https://img.shields.io/github/languages/top/seu_nome_de_usuario/seu_repositorio?color=blue&logo=css3)
-![JavaScript](https://img.shields.io/github/languages/top/seu_nome_de_usuario/seu_repositorio?color=yellow&logo=javascript)
-
 
 </div>
+<div>
+![Python](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=blue&logo=python)
+![HTML](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=orange&logo=html5)
+![CSS](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=blue&logo=css3)
+![JavaScript](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=yellow&logo=javascript)
 
+</div>
 
   

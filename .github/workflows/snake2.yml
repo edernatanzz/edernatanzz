@@ -18,11 +18,17 @@ jobs:
 
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - name: Checkout Repository
-        uses: actions/checkout@v2.5.1
+        uses: actions/checkout@v2
 
-      # Repositorio que será utilizado para gerar os arquivos.
-      - name: Generate Snake Contribution Grid
-        uses: Platane/snk@master
+      # Configuração do Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      # Configuração da versão da ação Platane/snk
+      - name: Use Platane/snk action
+        uses: Platane/snk@v0.1.0
         with:
           github_user_name: edernatanzz # Seu usuário
           gif_out_path: dist/github-contribution-grid-snake.gif

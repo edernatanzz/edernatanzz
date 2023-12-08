@@ -26,10 +26,6 @@
 
 
 
-## Jogo da Cobrinha
 
-Insira uma breve descrição do seu jogo aqui.
 
-```html
-<iframe src="https://github.com/edernatanzz/edernatanzz/blob/main/workflows/cobrinha.yml" width="600" height="400" frameborder="0" scrolling="no"></iframe>
 

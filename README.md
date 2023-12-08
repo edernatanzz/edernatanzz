@@ -9,10 +9,10 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />
 
-![Python](https://img.icons8.com/color/48/000000/python.png) Python
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 </div>
 

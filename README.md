@@ -12,11 +12,11 @@
 
 
 </div>
-
 ![Python](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=blue&logo=python)
 ![HTML](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=orange&logo=html5)
 ![CSS](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=blue&logo=css3)
 ![JavaScript](https://img.shields.io/github/languages/top/edernatanzz/seu_repositorio?color=yellow&logo=javascript)
+
 
 
 

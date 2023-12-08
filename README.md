@@ -1,6 +1,6 @@
 ## Olá, me chamo Eder Natan, qual a boa ?
 
-- 🤔 Estudante de Engenharia de Computação
+- 🤔 Estudante de Engenharia de Computação - Desenvolvedor Full Stack 
 - 💬 Alguma dúvida ?
 - 📫 Contate-me no email : edernatan124@gmail.com
 - ⚡ Pra quem ta perdido , qualquer caminho é lado.

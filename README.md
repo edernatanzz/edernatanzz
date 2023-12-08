@@ -9,5 +9,6 @@
 - 📫 Contate-me no email : edernatan124@gmail.com
 - ⚡ Pra quem ta perdido , qualquer caminho é lado.
 
-  
+  ![edernatanzz GitHub stats](https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true)
+
   

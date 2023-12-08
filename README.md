@@ -1,18 +1,19 @@
-## Olá, me chamo Eder Natan, qual a boa?</strong>
+# Olá, me chamo Eder Natan! 👋
 
-  🤔 Estudante de Engenharia de Computação - Desenvolvedor Full Stack<br>
-  💬 Alguma dúvida?<br>
-  📫 Contate-me no email: edernatan124@gmail.com<br>
-  ⚡ Pra quem está perdido, qualquer caminho é lado.
-
+🤔 Estudante de Engenharia de Computação - Desenvolvedor Full Stack<br>
+💬 Alguma dúvida?<br>
+📫 Contate-me no email: edernatan124@gmail.com<br>
+⚡ Pra quem está perdido, qualquer caminho é lado.
 
 <div style="width: 100%;">
- <h1> <img align="left" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true" alt="Eder Natan's GitHub stats" height="150" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" /></h1>
+  <h1>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true" alt="Eder Natan's GitHub stats" height="150" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />
+  </h1>
 </div>
 
-##
+## Linguagens e Ferramentas:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />

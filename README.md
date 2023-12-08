@@ -9,13 +9,13 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />
 
-
-
-</div>
 ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+
+</div>
+
 
 
 

@@ -6,12 +6,12 @@
   ⚡ Pra quem está perdido, qualquer caminho é lado.
 
 
-<div style="width: 100%;">
+<h1><div style="width: 100%;">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true" alt="Eder Natan's GitHub stats" height="150" />
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />
 </div>
-
+</h1>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />

@@ -1,6 +1,6 @@
 # Olá, me chamo Eder Natan! 👋
 
--🤔 Estudante de Engenharia de Computação - Em busca do Full Stack<br>
+-🤔 Estudante de Computação - Em busca do Full Stack<br>
 -💬 Alguma dúvida?<br>
 -📫 Contate-me no email: edernatan124@gmail.com<br>
 -⚡ Pra quem está perdido, qualquer caminho é lado.<br>

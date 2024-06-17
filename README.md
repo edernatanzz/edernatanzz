@@ -5,7 +5,7 @@
 -📫 Contate-me no email: edernatan124@gmail.com<br>
 -⚡ Pra quem está perdido, qualquer caminho é lado.<br>
 
-<div gap="50" align="center" >
+<div gap="50px" align="center" >
   <h1>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true" alt="Eder Natan's GitHub stats" height="150" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />

@@ -22,7 +22,9 @@
     <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" /> <!-- Adicionando o ícone do Express -->
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/prisma.png" alt="Prisma" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" /> <!-- Adicionando o ícone do Docker -->
   </p>
 </div>
 

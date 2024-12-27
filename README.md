@@ -29,5 +29,4 @@
 
 <div align="center">
   <h2>🚀 Estou em constante evolução! 🚀</h2>
-  <p>Adoraria conectar com você! Se tiver interesse em trocar ideias ou discutir sobre tecnologia, não hesite em me contatar.</p>
 </div>

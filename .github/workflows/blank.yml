@@ -1,0 +1,37 @@
+name: Snake Game
+
+on:
+  schedule:
+    - cron: "0 */5 * * *" # Atualiza a cada 5 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout do repositório
+      - uses: actions/checkout@v2
+
+      # Geração dos arquivos do Snake Game
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: edernatanzz # Substitua pelo seu nome de usuário
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Commit das alterações
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Generate Snake Game"
+          branch: output
+
+      # Publicação no GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist

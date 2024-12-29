@@ -4,7 +4,6 @@
 - 💬 Alguma dúvida?<br>
 - 📫 Contate-me no email: edernatan124@gmail.com<br>
 - ⚡ Pra quem está perdido, qualquer caminho é lado.<br>
-![Snake animation](https://github.com/edernatanzz/edernatanzz/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <h1>

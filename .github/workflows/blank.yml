@@ -10,28 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout do repositório
-      - uses: actions/checkout@v2
+      # Faz o checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      # Geração dos arquivos do Snake Game
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Gera os arquivos do Snake Game
+      - name: Generate Snake Game
+        uses: Platane/snk@v2
         with:
           github_user_name: edernatanzz # Substitua pelo seu nome de usuário
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          output: dist
 
-      # Commit das alterações
+      # Commit das alterações para a branch de saída
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Generate Snake Game"
-          branch: output
-
-      # Publicação no GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Generate Snake Game" || echo "No changes to commit"
+          git push origin HEAD:output

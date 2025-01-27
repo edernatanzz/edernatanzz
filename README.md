@@ -9,7 +9,12 @@
 
 ## 📊 Estatísticas do GitHub  
 
+
 <div >
+<a href="https://github.com/edernatanzz">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edernatanzz&theme=onedark" />
+</a>
+
 
   <a href="https://github.com/edernatanzz">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&show_icons=true&theme=onedark&count_private=true" />

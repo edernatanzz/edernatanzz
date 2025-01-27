@@ -1,32 +1,44 @@
-# Olá, me chamo Eder Natan! 👋
+# 👋 Olá, me chamo Eder Natan!  
 
-- 🤔 Estudante de Computação - Em busca do Full Stack<br>
-- 💬 Alguma dúvida?<br>
-- 📫 Contate-me no email: edernatan124@gmail.com<br>
-- ⚡ Pra quem está perdido, qualquer caminho é lado.<br>
+🎯 **Desenvolvedor Full Stack** | 🚀 **Apaixonado por tecnologia e inovação**  
+📚 **Computação - UFBA**  
+🌍 **Explorando:** React, Next.js, TypeScript, Spring Boot e Python  
+📩 **Contato:** [edernatan124@gmail.com](mailto:edernatan124@gmail.com)  
+⚡ **"Pra quem está perdido, qualquer caminho é lado."**  
 
-<div align="center">
-  <h1>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&theme=onedark&show_icons=true" alt="Eder Natan's GitHub stats" height="150" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact" alt="Top Langs" height="150" />
-  </h1>
-</div><br>
+---
 
-<div align="center">
-  <p> 
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
-    <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
-    <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" /> <!-- Adicionando o ícone do Docker -->
-  </p>
+## 📊 Estatísticas do GitHub  
+
+<div >
+
+  <a href="https://github.com/edernatanzz">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=edernatanzz&show_icons=true&theme=onedark&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/edernatanzz">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edernatanzz&theme=onedark&layout=compact&langs_count=6" />
+  </a>
+
 </div>
 
-<div align="center">
-  <h2>🚀 Estou em constante evolução! 🚀</h2>
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+
+<div>
+  
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+
 </div>

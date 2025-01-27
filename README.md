@@ -1,10 +1,9 @@
 # 👋 Olá, me chamo Eder Natan!  
 
-🎯 **Desenvolvedor Full Stack** | 🚀 **Apaixonado por tecnologia e inovação**  
+🎯 **Desenvolvedor Full Stack**  
 📚 **Computação - UFBA**  
 🌍 **Explorando:** React, Next.js, TypeScript, Spring Boot e Python  
 📩 **Contato:** [edernatan124@gmail.com](mailto:edernatan124@gmail.com)  
-⚡ **"Pra quem está perdido, qualquer caminho é lado."**  
 
 ---
 
